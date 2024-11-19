@@ -108,22 +108,15 @@ Script completed.
 
 ---
 
-## Troubleshooting
-
-### Common Issues
-
-1. **Missing Files**:
-   - Ensure `paths.csv` and `experiment.csv` exist in the correct format.
-
-2. **Data Loading Errors**:
-   - Verify that the paths in `paths.csv` point to valid directories.
-   - Ensure flow cytometry files are correctly formatted.
-
----
-
 ## Contribution
 
 Contributions are welcome! Feel free to open issues or submit pull requests.
+
+---
+
+## Contact
+
+For questions or issues, contact the project maintainer at andreagtzq@gmail.com
 
 ---
 
